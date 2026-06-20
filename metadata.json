@@ -1,0 +1,6 @@
+{
+  "name": "Dentist by Brausa",
+  "description": "Premium, modern dental care clinic website featuring expert team profiles, patient onboarding, interactive payment planners, and insurance information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
